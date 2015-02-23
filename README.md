@@ -2,6 +2,8 @@
 
 Example audit API
 
+![screen](https://github.com/gaving/audit-api/raw/master/docs/1.png)
+
 ## Install
 
 - mvn package
